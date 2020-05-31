@@ -2,7 +2,7 @@
 
 * Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel (https://arxiv.org/abs/2003.02623 )
 
-(Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS) 2020, Palermo, Italy. PMLR: Volume 108. Copyright 2020 by the author(s).)
+* (Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS) 2020, Palermo, Italy. PMLR: Volume 108. Copyright 2020 by the author(s).)
 
 
 # Requirements
@@ -11,3 +11,13 @@
 * CUDA v9.2
 * Tensorflow v1.15.0
 * Keras v2.2.4
+
+# Citation
+@misc{park2020unsupervised,
+    title={Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel},
+    author={Tae-Eon Park and Taesup Moon},
+    year={2020},
+    eprint={2003.02623},
+    archivePrefix={arXiv},
+    primaryClass={cs.IT}
+}
