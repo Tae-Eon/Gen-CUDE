@@ -1,1 +1,2 @@
-Check .ipynb
+Recommend to check '*.ipynb' file first.
+
