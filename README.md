@@ -10,6 +10,9 @@
 * Tensorflow v1.15.0
 * Keras v2.2.4
 
+# Results
+<img src="error_rate_plots.png" width="100%"/>
+
 
 # Citation
 ```
