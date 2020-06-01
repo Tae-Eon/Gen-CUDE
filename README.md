@@ -1,5 +1,6 @@
 # Gen-CUDE
-: is an unsupervised, universal context-based denoiser 
+
+* Gen-CUDE is an unsupervised, universal context-based denoiser 
 
 * Code accompanying the paper "Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel" (https://arxiv.org/abs/2003.02623)
 
