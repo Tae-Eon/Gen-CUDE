@@ -1,2 +1,2 @@
-Recommend to check '*.ipynb' file first.
+Recommend to check 'AISTAT_binary_Gen-CUDE.ipynb.ipynb' file first.
 
