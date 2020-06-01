@@ -1,5 +1,5 @@
 # Gen-CUDE
-* is an unsupervised, universal context-based denoiser 
+: is an unsupervised, universal context-based denoiser 
 
 * Code accompanying the paper "Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel" (https://arxiv.org/abs/2003.02623)
 
@@ -8,7 +8,7 @@
 
 
 
-# Experimental environments
+# Requirements
 * Python 3.6.6
 * CUDA v9.2
 * Tensorflow v1.15.0
