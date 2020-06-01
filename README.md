@@ -11,8 +11,8 @@
 * Keras v2.2.4
 
 # Results
-<img src="error_rate_plots.png" width="100%"/>
-<img src="time_plots.png" width="100%"/>
+<img src="error_rate-plots.png" width="100%"/>
+<img src="time-plots.png" width="100%"/>
 
 
 # Citation
