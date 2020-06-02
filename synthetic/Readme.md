@@ -1,4 +1,5 @@
-To reproduce the experimental results of paper, we recommend using keras version code.
+It is recommended to use the Keras version code to reproduce the experimental results of the paper.
+
 * Data length : 3e6
 * Clean source : Symmetric Markov chain
 * Transition probability : 0.1
