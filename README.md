@@ -1,6 +1,6 @@
 # Gen-CUDE
 
-* Gen-CUDE is an neural network-based universal denoiser for the finite-input, general-output channel.
+* Gen-CUDE is an unsupervised neural network-based universal denoiser for the finite-input, general-output channel.
 
 * Code accompanying the paper "Unsupervised Neural Universal Denoiser for Finite-Input General-Output Noisy Channel" (https://arxiv.org/abs/2003.02623).
 
